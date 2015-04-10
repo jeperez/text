@@ -1,14 +1,9 @@
-# Programming from A to Z, Spring 2014
-
 This course focuses on programming strategies and techniques behind procedural analysis and generation of text-based data. We'll explore topics ranging from evaluating text according to its statistical properties to the automated production of text with probabilistic methods to text visualization. Students will learn server-side and client-side JavaScript programming and develop projects that can be shared and interacted with online.  There will be weekly homework assignments as well as a final project.
 
 ## Info
-- Daniel Shiffman, Fridays, 12:10pm-2:40pm
-- [Course Notes](http://shiffman.net/teaching/a2z/)
+- Chris McKinlay, MW, 4-5pm
+- [Course Notes](http://mckinlay.la/teaching/a2z/)
 - All example code in this repo.
-
-## Mailing List
-* [Join ITP A2Z Google Group](https://groups.google.com/a/nyu.edu/forum/#!forum/a2z-group/).
 
 ## Week 1 - Sep 5
 ### Course intro / expectations
@@ -16,59 +11,59 @@ This course focuses on programming strategies and techniques behind procedural a
 * Overview / syllabus
 * Homework / final project
 
-### [Week 1 Notes](http://shiffman.net/teaching/a2z/week1/)
-* [Beyond Processing and into JavaScript and p5.js](http://shiffman.net/teaching/a2z/week1/#beyond)
-* [Installing Node](http://shiffman.net/teaching/a2z/week1/#node)
-* [JavaScript 101](http://shiffman.net/teaching/a2z/week1/#js101)
-* [Strings in JavaScript](http://shiffman.net/teaching/a2z/week1/#strings)
-* [File I/0 with Node](http://shiffman.net/teaching/a2z/week1/#file)
-* [Simple Text Analysis](http://shiffman.net/teaching/a2z/week1/#analysis)
-* [Back to p5.js, processing text from a user](http://shiffman.net/teaching/a2z/week1/#p5analysis)
+### [Week 1 Notes](http://mckinlay.la/teaching/a2z/week1/)
+* [Beyond Processing and into JavaScript and p5.js](http://mckinlay.la/teaching/a2z/week1/#beyond)
+* [Installing Node](http://mckinlay.la/teaching/a2z/week1/#node)
+* [JavaScript 101](http://mckinlay.la/teaching/a2z/week1/#js101)
+* [Strings in JavaScript](http://mckinlay.la/teaching/a2z/week1/#strings)
+* [File I/0 with Node](http://mckinlay.la/teaching/a2z/week1/#file)
+* [Simple Text Analysis](http://mckinlay.la/teaching/a2z/week1/#analysis)
+* [Back to p5.js, processing text from a user](http://mckinlay.la/teaching/a2z/week1/#p5analysis)
 
 ### Examples
-* [Processing to p5](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/00_Processing_to_p5.js)
-* [OOP in JS](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/01_objects_in_JS)
-* [DOM manipulation in p5](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/02_DOM_p5)
-* [Strings in JS](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/03_Strings)
-* [File I/O in Node](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/04_fileinput)
-* [File I/O in p5](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/05_fileinput_p5)
-* [Process user text in p5](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/06_p5_text)
+* [Processing to p5](https://github.com/mckinlay/text/tree/master/week1/00_Processing_to_p5.js)
+* [OOP in JS](https://github.com/mckinlay/text/tree/master/week1/01_objects_in_JS)
+* [DOM manipulation in p5](https://github.com/mckinlay/text/tree/master/week1/02_DOM_p5)
+* [Strings in JS](https://github.com/mckinlay/text/tree/master/week1/03_Strings)
+* [File I/O in Node](https://github.com/mckinlay/text/tree/master/week1/04_fileinput)
+* [File I/O in p5](https://github.com/mckinlay/text/tree/master/week1/05_fileinput_p5)
+* [Process user text in p5](https://github.com/mckinlay/text/tree/master/week1/06_p5_text)
 
 ### Assignment
 * [Sign up for the class google group](https://groups.google.com/a/nyu.edu/forum/#!forum/a2z-group/)
 * [Watch](https://www.youtube.com/watch?v=PGsQwAu3PzU) or [read](http://secretlifeofpronouns.com/book.php) The Secret Life of Pronouns.
 * Develop a program that "writes" or "reads" (or both) text, i.e. generate your own text from a source text (or via some other generative method) or create your own method for analyzing the statistical properties (or, dare I say, meaning) of an input text.  You can use node to process a text file or you can get user input in a browser.  Feel free to play around with visual ideas for displaying text with p5.js.
-* [Wiki page for submitting homework](https://github.com/shiffman/Programming-from-A-to-Z-F14/wiki/Week-1-Homework)
+* [Wiki page for submitting homework](https://github.com/mckinlay/text/wiki/Week-1-Homework)
 
 
 ## Week 2 - Regular Expressions - Sep 12
 
-### [Week 2 Notes](http://shiffman.net/teaching/a2z/regex)
-* [Intro to Regular Expressions](http://shiffman.net/teaching/a2z/regex/#regex)
+### [Week 2 Notes](http://mckinlay.la/teaching/a2z/regex)
+* [Intro to Regular Expressions](http://mckinlay.la/teaching/a2z/regex/#regex)
    * meta-characters
        * position
        * single character
        * quantifiers
        * character classes
-* [Testing regex with egrep](http://shiffman.net/teaching/a2z/regex/#egrep)
+* [Testing regex with egrep](http://mckinlay.la/teaching/a2z/regex/#egrep)
 * [Regex in JavaScript](#jsregex)
 * [Splitting with Regex](#splitting)
 * [Search and Replace](#searchreplace)
 
 ### Examples
 * Plain JS
-    * [Basic Regex: exec()](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week2_regex/regex_node/regex_helloworld1.js)
-    * [Basic Regex: match()](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week2_regex/regex_node/regex_helloworld2.js)
-    * [VowelCounter](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week2_regex/regex_node/vowelcounter.js)
-    * [WordSplitterRegex](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week2_regex/regex_node/split.js)
-    * [Simple replace](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week2_regex/regex_node/replace1.js)
-    * [Replace back reference](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week2_regex/regex_node/replace2.js)
+    * [Basic Regex: exec()](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/regex_helloworld1.js)
+    * [Basic Regex: match()](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/regex_helloworld2.js)
+    * [VowelCounter](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/vowelcounter.js)
+    * [WordSplitterRegex](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/split.js)
+    * [Simple replace](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/replace1.js)
+    * [Replace back reference](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/replace2.js)
 * P5 examples
-    * [Regex Basics](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week2_regex/regex_p5/01_regexbasics)
-    * [Find double words](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week2_regex/regex_p5/02_doublewords)
-    * [Double the vowels](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week2_regex/regex_p5/03_voweldoubler)
-    * [Test a regex](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week2_regex/regex_p5/04_regex_tester)
-    * [Find links](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week2_regex/regex_p5/05_linkfinder)
+    * [Regex Basics](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/01_regexbasics)
+    * [Find double words](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/02_doublewords)
+    * [Double the vowels](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/03_voweldoubler)
+    * [Test a regex](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/04_regex_tester)
+    * [Find links](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/05_linkfinder)
 
 ### Resources
 * [Chapter 1, Mastering Regular Expressions](http://safari.oreilly.com/0596002890/mastregex2-CHP-1)
@@ -91,24 +86,24 @@ This course focuses on programming strategies and techniques behind procedural a
     * Write a regular expression that matches any e-mail address.
     * Take that regular expression and do a search and replace so that any e-mail address is made into a &#8220;mailto:&#8221; link.
     * Create an example that reads an HTML page and removes any markup and leaves only the raw content.
-    * Adapt the [regex tester](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week2_regex/regex_p5/regex_tester) to bea  search/replace tester.
+    * Adapt the [regex tester](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/regex_tester) to bea  search/replace tester.
     * Create a regex that matches only code comments in code.
-* Don't forgot to document your work online, upload to dropbox, and post to the [homework wiki](https://github.com/shiffman/Programming-from-A-to-Z-F14/wiki/Week-2-Homework).
+* Don't forgot to document your work online, upload to dropbox, and post to the [homework wiki](https://github.com/mckinlay/text/wiki/Week-2-Homework).
    
 ## Week 3 - Text Analysis - Sep 19
-### [Week 3 Notes](http://shiffman.net/teaching/a2z/analysis)
-* [Associative Arrays in JavaScript?](http://shiffman.net/teaching/a2z/analysis#dictionary)
-* [Text Concordance](http://shiffman.net/teaching/a2z/analysis#concordance)
-* [Keyword finding: TF-IDF](http://shiffman.net/teaching/a2z/analysis#tfidf)
-* [Text Classification: Naive Bayes](http://shiffman.net/teaching/a2z/analysis#bayes)
+### [Week 3 Notes](http://mckinlay.la/teaching/a2z/analysis)
+* [Associative Arrays in JavaScript?](http://mckinlay.la/teaching/a2z/analysis#dictionary)
+* [Text Concordance](http://mckinlay.la/teaching/a2z/analysis#concordance)
+* [Keyword finding: TF-IDF](http://mckinlay.la/teaching/a2z/analysis#tfidf)
+* [Text Classification: Naive Bayes](http://mckinlay.la/teaching/a2z/analysis#bayes)
 
 ### Examples
-* [Text Concordance](http://shiffman.net/teaching/a2z/analysis/01_concordance/), [Source code](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week3_analysis/01_concordance)
-* [Keyword finding: TF-IDF](http://shiffman.net/teaching/a2z/analysis/02_tf-idf/), [Source code](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week3_analysis/02_tf-idf)
-* [Text Classification: Naive Bayes](http://shiffman.net/teaching/a2z/analysis/05_naive_bayes_classifier/), [Source Code](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week3_analysis/05_naive_bayes_classifier)
-* [Rita Library Basics](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week3_analysis/03_rita_basics)
-* [Parts of Speech Concordance](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week3_analysis/04_parts_of_speech_concordance)
-* [Sample Datasets](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week3_analysis/sample_datasets)
+* [Text Concordance](http://mckinlay.la/teaching/a2z/analysis/01_concordance/), [Source code](https://github.com/mckinlay/text/tree/master/week3_analysis/01_concordance)
+* [Keyword finding: TF-IDF](http://mckinlay.la/teaching/a2z/analysis/02_tf-idf/), [Source code](https://github.com/mckinlay/text/tree/master/week3_analysis/02_tf-idf)
+* [Text Classification: Naive Bayes](http://mckinlay.la/teaching/a2z/analysis/05_naive_bayes_classifier/), [Source Code](https://github.com/mckinlay/text/tree/master/week3_analysis/05_naive_bayes_classifier)
+* [Rita Library Basics](https://github.com/mckinlay/text/tree/master/week3_analysis/03_rita_basics)
+* [Parts of Speech Concordance](https://github.com/mckinlay/text/tree/master/week3_analysis/04_parts_of_speech_concordance)
+* [Sample Datasets](https://github.com/mckinlay/text/tree/master/week3_analysis/sample_datasets)
 
 ### Resources
 * [What our words say about us.](http://secretlifeofpronouns.com/)
@@ -132,31 +127,31 @@ This course focuses on programming strategies and techniques behind procedural a
 ## No class meeting Friday, Sept 26
 
 ## Week 4 - Text Generation - Oct 3
-### [Week 4 Notes](http://shiffman.net/teaching/a2z/generate)
-* [N-Grams and Markov Chains](http://shiffman.net/teaching/a2z/generate#ngrams)
-* [Grammars](http://shiffman.net/teaching/a2z/generate#grammar)
+### [Week 4 Notes](http://mckinlay.la/teaching/a2z/generate)
+* [N-Grams and Markov Chains](http://mckinlay.la/teaching/a2z/generate#ngrams)
+* [Grammars](http://mckinlay.la/teaching/a2z/generate#grammar)
 * Wordnik
 * TwitterBot
 
 ### Examples
-* [Markov chains](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week4_generate/01_markov)
-* [Context-free Grammars](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week4_generate/02_cfg)
-* [Wordnik API](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week4_generate/03_wordnik/01_wordnik)
-* [TwitterBot](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week4_generate/04_twitter_bot/bot.js)
+* [Markov chains](https://github.com/mckinlay/text/tree/master/week4_generate/01_markov)
+* [Context-free Grammars](https://github.com/mckinlay/text/tree/master/week4_generate/02_cfg)
+* [Wordnik API](https://github.com/mckinlay/text/tree/master/week4_generate/03_wordnik/01_wordnik)
+* [TwitterBot](https://github.com/mckinlay/text/blob/master/week4_generate/04_twitter_bot/bot.js)
 
 ### Resources
 * [Animated Markov Chain explanation](http://setosa.io/blog/2014/07/26/markov-chains/) 
 * [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 * [Context-Free Grammars by Allison Parrish](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
-* [N-Grams and Markov Chains by Daniel Howe](http://www.rednoise.org/pdal/index.php?n=Main.N-Grams)
-* [Context-Free Grammars by Daniel Howe](http://www.rednoise.org/pdal/index.php?n=Main.Grammars)
+* [N-Grams and Markov Chains by chris Howe](http://www.rednoise.org/pdal/index.php?n=Main.N-Grams)
+* [Context-Free Grammars by chris Howe](http://www.rednoise.org/pdal/index.php?n=Main.Grammars)
 * [Google N-Gram Viewer](https://books.google.com/ngrams), [google blog post about n-grams](http://googleresearch.blogspot.com/2006/08/all-our-n-gram-are-belong-to-you.html)
 * [Markov Models of Natural Language](http://www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/markov.html)
 * [Three Models for the Description of Language (Chomsky)](http://chomsky.info/articles/195609--.pdf)
 
 ### Assignment
 * Generate text procedurally.
-* Post a link about your work to: [week 4 homework wiki](https://github.com/shiffman/Programming-from-A-to-Z-F14/wiki/Week-4-Homework)
+* Post a link about your work to: [week 4 homework wiki](https://github.com/mckinlay/text/wiki/Week-4-Homework)
 * Some ideas:
     * Create page that generates its content by feeding an existing text into the Markov chain algorithm.  What effect does the value of n (the “order” of the n-gram) have on the result?  [Allison Parish's ITP Course generator](http://static.decontextualize.com/toys/next_semester) is an excellent example.
     * Visualize N-gram frequencies.  See [WebTrigrams by Chris Harrison](http://www.chrisharrison.net/index.php/Visualizations/WebTrigrams) for an example.
@@ -164,27 +159,27 @@ This course focuses on programming strategies and techniques behind procedural a
     * Rework any of the example programs to use something other than text (or, at least, text that represents language) as its basic unit. For example: musical notes, songs in playlists, pixels in an image, etc.
     * Invent your own grammar. Consider using one that generates something other English sentences: music, images, code, etc.
     * Build a grammar that pulls its terminal words from [Wordnik](https://www.wordnik.com/).
-    * Build a grammar based on a source text [as demonstrated here](https://github.com/shiffman/Programming-from-A-to-Z-F14/blob/master/week4_generate/02_cfg/04_grammar_maker/grammarmaker.js).  
+    * Build a grammar based on a source text [as demonstrated here](https://github.com/mckinlay/text/blob/master/week4_generate/02_cfg/04_grammar_maker/grammarmaker.js).  
 
 ## Week 5 - Text Visualization - Oct 10
-### [Week 5 Notes](http://shiffman.net/teaching/a2z/visualization)
-* [Drawing Text with Canvas](http://shiffman.net/teaching/a2z/visualization/#canvas)
-* [Drawing Text with DOM Elements](http://shiffman.net/teaching/a2z/visualization/#dom)
-* [Classic Text Visualization Techniques](http://shiffman.net/teaching/a2z/visualization/#classic)
+### [Week 5 Notes](http://mckinlay.la/teaching/a2z/visualization)
+* [Drawing Text with Canvas](http://mckinlay.la/teaching/a2z/visualization/#canvas)
+* [Drawing Text with DOM Elements](http://mckinlay.la/teaching/a2z/visualization/#dom)
+* [Classic Text Visualization Techniques](http://mckinlay.la/teaching/a2z/visualization/#classic)
    * word clouds
    * treemaps
    * network diagrams
 * Pulling text and metadata from APIs
 
 ### Examples
-* [Text display basics](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/00_basics)
-* [More with canvas](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/01_canvas_drawingtext)
-* [More with DOM](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/02_DOM_drawingtext)
-* [Boxfitting](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/04_boxfitting)
-* [Treemap](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/05_treemap)
-* [Network diagram](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/06_network_diagram)
-* [Physics](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/07_physics)
-* [APIs](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week5_visualization/08_APIs/)
+* [Text display basics](https://github.com/mckinlay/text/tree/master/week5_visualization/00_basics)
+* [More with canvas](https://github.com/mckinlay/text/tree/master/week5_visualization/01_canvas_drawingtext)
+* [More with DOM](https://github.com/mckinlay/text/tree/master/week5_visualization/02_DOM_drawingtext)
+* [Boxfitting](https://github.com/mckinlay/text/tree/master/week5_visualization/04_boxfitting)
+* [Treemap](https://github.com/mckinlay/text/tree/master/week5_visualization/05_treemap)
+* [Network diagram](https://github.com/mckinlay/text/tree/master/week5_visualization/06_network_diagram)
+* [Physics](https://github.com/mckinlay/text/tree/master/week5_visualization/07_physics)
+* [APIs](https://github.com/mckinlay/text/tree/master/week5_visualization/08_APIs/)
 
 ### Resources
 * [Stefanie Posavec](http://www.stefanieposavec.co.uk/-everything-in-between/)
@@ -203,28 +198,28 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Rob Seward Word Association](http://robseward.com/blog/2009/02/23/word-association-apps/)
 
 ### Assignment
-* Create a final project proposal.  [Add a link to the wiki](https://github.com/shiffman/Programming-from-A-to-Z-F14/wiki/Final-Project-Proposal).  
+* Create a final project proposal.  [Add a link to the wiki](https://github.com/mckinlay/text/wiki/Final-Project-Proposal).  
 
 ## Week 6 - APIs - Oct 17
 * Pulling data from APIs
     * [Some notes from creativeJS](https://github.com/lmccart/itp-creative-js/wiki/Week-4)
     * API examples:
-        * [Instagram p5.js example](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week6_apis/01_instagram), [Instagram API docs](http://instagram.com/developer/)
-        * [NY Times p5.js examples](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week6_apis/03_nytimes), [NY Times API docs](http://developer.nytimes.com/docs)
-        * [Wikipedia p5.js examples](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week6_apis/04_wikipedia), [Wikipedia API docs](http://www.mediawiki.org/wiki/API:Main_page)
+        * [Instagram p5.js example](https://github.com/mckinlay/text/tree/master/week6_apis/01_instagram), [Instagram API docs](http://instagram.com/developer/)
+        * [NY Times p5.js examples](https://github.com/mckinlay/text/tree/master/week6_apis/03_nytimes), [NY Times API docs](http://developer.nytimes.com/docs)
+        * [Wikipedia p5.js examples](https://github.com/mckinlay/text/tree/master/week6_apis/04_wikipedia), [Wikipedia API docs](http://www.mediawiki.org/wiki/API:Main_page)
 * Making your own API
     * [Server side programming with Servi](https://github.com/antiboredom/servi.js/wiki)
-    * [Code examples](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week6_apis/05_servi_makeyourownAPI)
+    * [Code examples](https://github.com/mckinlay/text/tree/master/week6_apis/05_servi_makeyourownAPI)
     * [Nodemon](https://github.com/remy/nodemon)
     * Deploying your app: [notes from Shawn's Network Media using Digital Ocean](http://itp.nyu.edu/~sve204/commlabnetworkedmedia_fall2014/week1.html)
 * Combining the two!
     * [OAuth](http://en.wikipedia.org/wiki/OAuth)
     * [Twitter API docs](https://dev.twitter.com/overview/documentation)
     * [Twit Node module](https://github.com/ttezel/twit)
-    * [Example using servi.sj and p5 to search and post tweets](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week6_apis/06_twitter_horrors_of_oauth)
+    * [Example using servi.sj and p5 to search and post tweets](https://github.com/mckinlay/text/tree/master/week6_apis/06_twitter_horrors_of_oauth)
 
 ### Assignment
-* Prepare final project and documentation [as described here](https://github.com/shiffman/Programming-from-A-to-Z-F14/wiki/Final-Project).  Plan on 5 minutes (with 1-2 minutes of questions) for presenting.
+* Prepare final project and documentation [as described here](https://github.com/mckinlay/text/wiki/Final-Project).  Plan on 5 minutes (with 1-2 minutes of questions) for presenting.
 
 ## Week 7 - Present Final Projects - Oct 30 -- 12:30 - 3:00 pm
 * ***NOTE THE NEW DATE FOR THIS FINAL CLASS Oct 30 -- 12:30 - 3:00 pm Room TBA***
