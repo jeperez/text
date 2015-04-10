@@ -1,7 +1,7 @@
 
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/text
 
 // This is the same sketch as the first exampel but just uses the RiTa library
 

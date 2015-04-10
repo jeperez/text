@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/text
 
 // TF-IDF analysis
 // http://en.wikipedia.org/wiki/Tf%E2%80%93idf

@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/text
 
 // This comes from Jer Thorp's Data Art examples
 // https://github.com/blprnt/dataart
