@@ -21,19 +21,19 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Back to p5.js, processing text from a user](http://mckinlay.la/teaching/a2z/week1/#p5analysis)
 
 ### Examples
-* [Processing to p5](https://github.com/mckinlay/text/tree/master/week1/00_Processing_to_p5.js)
-* [OOP in JS](https://github.com/mckinlay/text/tree/master/week1/01_objects_in_JS)
-* [DOM manipulation in p5](https://github.com/mckinlay/text/tree/master/week1/02_DOM_p5)
-* [Strings in JS](https://github.com/mckinlay/text/tree/master/week1/03_Strings)
-* [File I/O in Node](https://github.com/mckinlay/text/tree/master/week1/04_fileinput)
-* [File I/O in p5](https://github.com/mckinlay/text/tree/master/week1/05_fileinput_p5)
-* [Process user text in p5](https://github.com/mckinlay/text/tree/master/week1/06_p5_text)
+* [Processing to p5](https://github.com/cem3394/text/tree/master/week1/00_Processing_to_p5.js)
+* [OOP in JS](https://github.com/cem3394/text/tree/master/week1/01_objects_in_JS)
+* [DOM manipulation in p5](https://github.com/cem3394/text/tree/master/week1/02_DOM_p5)
+* [Strings in JS](https://github.com/cem3394/text/tree/master/week1/03_Strings)
+* [File I/O in Node](https://github.com/cem3394/text/tree/master/week1/04_fileinput)
+* [File I/O in p5](https://github.com/cem3394/text/tree/master/week1/05_fileinput_p5)
+* [Process user text in p5](https://github.com/cem3394/text/tree/master/week1/06_p5_text)
 
 ### Assignment
 * [Sign up for the class google group](https://groups.google.com/a/csun.edu/forum/#!forum/a2z-group/)
 * [Watch](https://www.youtube.com/watch?v=PGsQwAu3PzU) or [read](http://secretlifeofpronouns.com/book.php) The Secret Life of Pronouns.
 * Develop a program that "writes" or "reads" (or both) text, i.e. generate your own text from a source text (or via some other generative method) or create your own method for analyzing the statistical properties (or, dare I say, meaning) of an input text.  You can use node to process a text file or you can get user input in a browser.  Feel free to play around with visual ideas for displaying text with p5.js.
-* [Wiki page for submitting homework](https://github.com/mckinlay/text/wiki/Week-1-Homework)
+* [Wiki page for submitting homework](https://github.com/cem3394/text/wiki/Week-1-Homework)
 
 
 ## Week 2 - Regular Expressions - Sep 12
@@ -52,18 +52,18 @@ This course focuses on programming strategies and techniques behind procedural a
 
 ### Examples
 * Plain JS
-    * [Basic Regex: exec()](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/regex_helloworld1.js)
-    * [Basic Regex: match()](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/regex_helloworld2.js)
-    * [VowelCounter](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/vowelcounter.js)
-    * [WordSplitterRegex](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/split.js)
-    * [Simple replace](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/replace1.js)
-    * [Replace back reference](https://github.com/mckinlay/text/blob/master/week2_regex/regex_node/replace2.js)
+    * [Basic Regex: exec()](https://github.com/cem3394/text/blob/master/week2_regex/regex_node/regex_helloworld1.js)
+    * [Basic Regex: match()](https://github.com/cem3394/text/blob/master/week2_regex/regex_node/regex_helloworld2.js)
+    * [VowelCounter](https://github.com/cem3394/text/blob/master/week2_regex/regex_node/vowelcounter.js)
+    * [WordSplitterRegex](https://github.com/cem3394/text/blob/master/week2_regex/regex_node/split.js)
+    * [Simple replace](https://github.com/cem3394/text/blob/master/week2_regex/regex_node/replace1.js)
+    * [Replace back reference](https://github.com/cem3394/text/blob/master/week2_regex/regex_node/replace2.js)
 * P5 examples
-    * [Regex Basics](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/01_regexbasics)
-    * [Find double words](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/02_doublewords)
-    * [Double the vowels](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/03_voweldoubler)
-    * [Test a regex](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/04_regex_tester)
-    * [Find links](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/05_linkfinder)
+    * [Regex Basics](https://github.com/cem3394/text/tree/master/week2_regex/regex_p5/01_regexbasics)
+    * [Find double words](https://github.com/cem3394/text/tree/master/week2_regex/regex_p5/02_doublewords)
+    * [Double the vowels](https://github.com/cem3394/text/tree/master/week2_regex/regex_p5/03_voweldoubler)
+    * [Test a regex](https://github.com/cem3394/text/tree/master/week2_regex/regex_p5/04_regex_tester)
+    * [Find links](https://github.com/cem3394/text/tree/master/week2_regex/regex_p5/05_linkfinder)
 
 ### Resources
 * [Chapter 1, Mastering Regular Expressions](http://safari.oreilly.com/0596002890/mastregex2-CHP-1)
@@ -86,9 +86,9 @@ This course focuses on programming strategies and techniques behind procedural a
     * Write a regular expression that matches any e-mail address.
     * Take that regular expression and do a search and replace so that any e-mail address is made into a &#8220;mailto:&#8221; link.
     * Create an example that reads an HTML page and removes any markup and leaves only the raw content.
-    * Adapt the [regex tester](https://github.com/mckinlay/text/tree/master/week2_regex/regex_p5/regex_tester) to bea  search/replace tester.
+    * Adapt the [regex tester](https://github.com/cem3394/text/tree/master/week2_regex/regex_p5/regex_tester) to bea  search/replace tester.
     * Create a regex that matches only code comments in code.
-* Don't forgot to document your work online, upload to dropbox, and post to the [homework wiki](https://github.com/mckinlay/text/wiki/Week-2-Homework).
+* Don't forgot to document your work online, upload to dropbox, and post to the [homework wiki](https://github.com/cem3394/text/wiki/Week-2-Homework).
    
 ## Week 3 - Text Analysis - Sep 19
 ### [Week 3 Notes](http://mckinlay.la/teaching/a2z/analysis)
@@ -98,12 +98,12 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Text Classification: Naive Bayes](http://mckinlay.la/teaching/a2z/analysis#bayes)
 
 ### Examples
-* [Text Concordance](http://mckinlay.la/teaching/a2z/analysis/01_concordance/), [Source code](https://github.com/mckinlay/text/tree/master/week3_analysis/01_concordance)
-* [Keyword finding: TF-IDF](http://mckinlay.la/teaching/a2z/analysis/02_tf-idf/), [Source code](https://github.com/mckinlay/text/tree/master/week3_analysis/02_tf-idf)
-* [Text Classification: Naive Bayes](http://mckinlay.la/teaching/a2z/analysis/05_naive_bayes_classifier/), [Source Code](https://github.com/mckinlay/text/tree/master/week3_analysis/05_naive_bayes_classifier)
-* [Rita Library Basics](https://github.com/mckinlay/text/tree/master/week3_analysis/03_rita_basics)
-* [Parts of Speech Concordance](https://github.com/mckinlay/text/tree/master/week3_analysis/04_parts_of_speech_concordance)
-* [Sample Datasets](https://github.com/mckinlay/text/tree/master/week3_analysis/sample_datasets)
+* [Text Concordance](http://mckinlay.la/teaching/a2z/analysis/01_concordance/), [Source code](https://github.com/cem3394/text/tree/master/week3_analysis/01_concordance)
+* [Keyword finding: TF-IDF](http://mckinlay.la/teaching/a2z/analysis/02_tf-idf/), [Source code](https://github.com/cem3394/text/tree/master/week3_analysis/02_tf-idf)
+* [Text Classification: Naive Bayes](http://mckinlay.la/teaching/a2z/analysis/05_naive_bayes_classifier/), [Source Code](https://github.com/cem3394/text/tree/master/week3_analysis/05_naive_bayes_classifier)
+* [Rita Library Basics](https://github.com/cem3394/text/tree/master/week3_analysis/03_rita_basics)
+* [Parts of Speech Concordance](https://github.com/cem3394/text/tree/master/week3_analysis/04_parts_of_speech_concordance)
+* [Sample Datasets](https://github.com/cem3394/text/tree/master/week3_analysis/sample_datasets)
 
 ### Resources
 * [What our words say about us.](http://secretlifeofpronouns.com/)
@@ -134,10 +134,10 @@ This course focuses on programming strategies and techniques behind procedural a
 * TwitterBot
 
 ### Examples
-* [Markov chains](https://github.com/mckinlay/text/tree/master/week4_generate/01_markov)
-* [Context-free Grammars](https://github.com/mckinlay/text/tree/master/week4_generate/02_cfg)
-* [Wordnik API](https://github.com/mckinlay/text/tree/master/week4_generate/03_wordnik/01_wordnik)
-* [TwitterBot](https://github.com/mckinlay/text/blob/master/week4_generate/04_twitter_bot/bot.js)
+* [Markov chains](https://github.com/cem3394/text/tree/master/week4_generate/01_markov)
+* [Context-free Grammars](https://github.com/cem3394/text/tree/master/week4_generate/02_cfg)
+* [Wordnik API](https://github.com/cem3394/text/tree/master/week4_generate/03_wordnik/01_wordnik)
+* [TwitterBot](https://github.com/cem3394/text/blob/master/week4_generate/04_twitter_bot/bot.js)
 
 ### Resources
 * [Animated Markov Chain explanation](http://setosa.io/blog/2014/07/26/markov-chains/) 
@@ -151,7 +151,7 @@ This course focuses on programming strategies and techniques behind procedural a
 
 ### Assignment
 * Generate text procedurally.
-* Post a link about your work to: [week 4 homework wiki](https://github.com/mckinlay/text/wiki/Week-4-Homework)
+* Post a link about your work to: [week 4 homework wiki](https://github.com/cem3394/text/wiki/Week-4-Homework)
 * Some ideas:
     * Create page that generates its content by feeding an existing text into the Markov chain algorithm.  What effect does the value of n (the “order” of the n-gram) have on the result?  [Allison Parish's ITP Course generator](http://static.decontextualize.com/toys/next_semester) is an excellent example.
     * Visualize N-gram frequencies.  See [WebTrigrams by Chris Harrison](http://www.chrisharrison.net/index.php/Visualizations/WebTrigrams) for an example.
@@ -159,7 +159,7 @@ This course focuses on programming strategies and techniques behind procedural a
     * Rework any of the example programs to use something other than text (or, at least, text that represents language) as its basic unit. For example: musical notes, songs in playlists, pixels in an image, etc.
     * Invent your own grammar. Consider using one that generates something other English sentences: music, images, code, etc.
     * Build a grammar that pulls its terminal words from [Wordnik](https://www.wordnik.com/).
-    * Build a grammar based on a source text [as demonstrated here](https://github.com/mckinlay/text/blob/master/week4_generate/02_cfg/04_grammar_maker/grammarmaker.js).  
+    * Build a grammar based on a source text [as demonstrated here](https://github.com/cem3394/text/blob/master/week4_generate/02_cfg/04_grammar_maker/grammarmaker.js).  
 
 ## Week 5 - Text Visualization - Oct 10
 ### [Week 5 Notes](http://mckinlay.la/teaching/a2z/visualization)
@@ -172,14 +172,14 @@ This course focuses on programming strategies and techniques behind procedural a
 * Pulling text and metadata from APIs
 
 ### Examples
-* [Text display basics](https://github.com/mckinlay/text/tree/master/week5_visualization/00_basics)
-* [More with canvas](https://github.com/mckinlay/text/tree/master/week5_visualization/01_canvas_drawingtext)
-* [More with DOM](https://github.com/mckinlay/text/tree/master/week5_visualization/02_DOM_drawingtext)
-* [Boxfitting](https://github.com/mckinlay/text/tree/master/week5_visualization/04_boxfitting)
-* [Treemap](https://github.com/mckinlay/text/tree/master/week5_visualization/05_treemap)
-* [Network diagram](https://github.com/mckinlay/text/tree/master/week5_visualization/06_network_diagram)
-* [Physics](https://github.com/mckinlay/text/tree/master/week5_visualization/07_physics)
-* [APIs](https://github.com/mckinlay/text/tree/master/week5_visualization/08_APIs/)
+* [Text display basics](https://github.com/cem3394/text/tree/master/week5_visualization/00_basics)
+* [More with canvas](https://github.com/cem3394/text/tree/master/week5_visualization/01_canvas_drawingtext)
+* [More with DOM](https://github.com/cem3394/text/tree/master/week5_visualization/02_DOM_drawingtext)
+* [Boxfitting](https://github.com/cem3394/text/tree/master/week5_visualization/04_boxfitting)
+* [Treemap](https://github.com/cem3394/text/tree/master/week5_visualization/05_treemap)
+* [Network diagram](https://github.com/cem3394/text/tree/master/week5_visualization/06_network_diagram)
+* [Physics](https://github.com/cem3394/text/tree/master/week5_visualization/07_physics)
+* [APIs](https://github.com/cem3394/text/tree/master/week5_visualization/08_APIs/)
 
 ### Resources
 * [Stefanie Posavec](http://www.stefanieposavec.co.uk/-everything-in-between/)
@@ -198,28 +198,28 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Rob Seward Word Association](http://robseward.com/blog/2009/02/23/word-association-apps/)
 
 ### Assignment
-* Create a final project proposal.  [Add a link to the wiki](https://github.com/mckinlay/text/wiki/Final-Project-Proposal).  
+* Create a final project proposal.  [Add a link to the wiki](https://github.com/cem3394/text/wiki/Final-Project-Proposal).  
 
 ## Week 6 - APIs - Oct 17
 * Pulling data from APIs
     * [Some notes from creativeJS](https://github.com/lmccart/itp-creative-js/wiki/Week-4)
     * API examples:
-        * [Instagram p5.js example](https://github.com/mckinlay/text/tree/master/week6_apis/01_instagram), [Instagram API docs](http://instagram.com/developer/)
-        * [NY Times p5.js examples](https://github.com/mckinlay/text/tree/master/week6_apis/03_nytimes), [NY Times API docs](http://developer.nytimes.com/docs)
-        * [Wikipedia p5.js examples](https://github.com/mckinlay/text/tree/master/week6_apis/04_wikipedia), [Wikipedia API docs](http://www.mediawiki.org/wiki/API:Main_page)
+        * [Instagram p5.js example](https://github.com/cem3394/text/tree/master/week6_apis/01_instagram), [Instagram API docs](http://instagram.com/developer/)
+        * [NY Times p5.js examples](https://github.com/cem3394/text/tree/master/week6_apis/03_nytimes), [NY Times API docs](http://developer.nytimes.com/docs)
+        * [Wikipedia p5.js examples](https://github.com/cem3394/text/tree/master/week6_apis/04_wikipedia), [Wikipedia API docs](http://www.mediawiki.org/wiki/API:Main_page)
 * Making your own API
     * [Server side programming with Servi](https://github.com/antiboredom/servi.js/wiki)
-    * [Code examples](https://github.com/mckinlay/text/tree/master/week6_apis/05_servi_makeyourownAPI)
+    * [Code examples](https://github.com/cem3394/text/tree/master/week6_apis/05_servi_makeyourownAPI)
     * [Nodemon](https://github.com/remy/nodemon)
     * Deploying your app: [notes from Shawn's Network Media using Digital Ocean](http://itp.csun.edu/~sve204/commlabnetworkedmedia_fall2014/week1.html)
 * Combining the two!
     * [OAuth](http://en.wikipedia.org/wiki/OAuth)
     * [Twitter API docs](https://dev.twitter.com/overview/documentation)
     * [Twit Node module](https://github.com/ttezel/twit)
-    * [Example using servi.sj and p5 to search and post tweets](https://github.com/mckinlay/text/tree/master/week6_apis/06_twitter_horrors_of_oauth)
+    * [Example using servi.sj and p5 to search and post tweets](https://github.com/cem3394/text/tree/master/week6_apis/06_twitter_horrors_of_oauth)
 
 ### Assignment
-* Prepare final project and documentation [as described here](https://github.com/mckinlay/text/wiki/Final-Project).  Plan on 5 minutes (with 1-2 minutes of questions) for presenting.
+* Prepare final project and documentation [as described here](https://github.com/cem3394/text/wiki/Final-Project).  Plan on 5 minutes (with 1-2 minutes of questions) for presenting.
 
 ## Week 7 - Present Final Projects - Oct 30 -- 12:30 - 3:00 pm
 * ***NOTE THE NEW DATE FOR THIS FINAL CLASS Oct 30 -- 12:30 - 3:00 pm Room TBA***

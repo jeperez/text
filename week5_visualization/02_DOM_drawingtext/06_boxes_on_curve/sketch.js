@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/text
+// https://github.com/cem3394/text
 
 // Ported from Learning Processing
 // https://github.com/mckinlay/LearningProcessing
@@ -8,7 +8,7 @@
 // Example 17-7: Boxes along a curve 
 
 // This example is off and not producing the exact results as
-// https://github.com/mckinlay/text/tree/master/week5_visualization/01_canvas_drawingtext/06_boxes_on_curve
+// https://github.com/cem3394/text/tree/master/week5_visualization/01_canvas_drawingtext/06_boxes_on_curve
 
 // The radius of a circle
 var r = 100;

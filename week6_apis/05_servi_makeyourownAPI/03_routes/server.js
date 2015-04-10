@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/text
+// https://github.com/cem3394/text
 
 // Thanks Sam Lavigne and Shawn Van Every
 // https://github.com/antiboredom/servi.js/wiki

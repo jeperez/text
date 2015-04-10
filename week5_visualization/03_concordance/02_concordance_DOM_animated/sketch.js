@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/text
+// https://github.com/cem3394/text
 
 // This examples builds a very simple DOM visualization of concordance
 // It reads the text one word a a time and animates the words growing according to their counts

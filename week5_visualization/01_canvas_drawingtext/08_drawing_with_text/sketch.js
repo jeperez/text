@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/text
+// https://github.com/cem3394/text
 
 // Ported from Generative Gestaltung, ISBN: 978-3-87439-759-9
 // First Edition, Hermann Schmidt, Mainz, 2009

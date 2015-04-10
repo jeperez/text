@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/text
+// https://github.com/cem3394/text
 
 // Thank you to: https://github.com/dariusk/metaphor-a-minute/blob/master/metaphor.js
 
@@ -88,7 +88,7 @@ setInterval(postTweet, 120000);
 
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/text
+// https://github.com/cem3394/text
 
 // This is based on Allison Parrish's great RWET examples
 // https://github.com/aparrish/rwet-examples

@@ -1,6 +1,6 @@
 // Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/mckinlay/text
+// https://github.com/cem3394/text
 
 // Instagram requires oAuth, but the old API does not seem to
 // https://api.instagram.com/v1/
