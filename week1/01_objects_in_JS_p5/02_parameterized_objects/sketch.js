@@ -1,5 +1,5 @@
 // Learning Processing
-// Daniel Shiffman
+// Chris McKinlay
 // http://www.learningprocessing.com
 
 // Ported by Lauren McCarthy

@@ -3,12 +3,12 @@
 This course focuses on programming strategies and techniques behind procedural analysis and generation of text-based data. We'll explore topics ranging from evaluating text according to its statistical properties to the automated production of text with probabilistic methods to text visualization. Students will learn server-side and client-side JavaScript programming and develop projects that can be shared and interacted with online.  There will be weekly homework assignments as well as a final project.
 
 ## Info
-- Daniel Shiffman, Fridays, 12:10pm-2:40pm
-- [Course Notes](http://shiffman.net/teaching/a2z/)
+- Chris McKinlay, Fridays, 12:10pm-2:40pm
+- [Course Notes](http://mckinlay.net/teaching/a2z/)
 - All example code in this repo.
 
 ## Mailing List
-* [Join ITP A2Z Google Group](https://groups.google.com/a/nyu.edu/forum/#!forum/a2z-group/).
+* [Join ITP A2Z Google Group](https://groups.google.com/a/csun.edu/forum/#!forum/a2z-group/).
 
 ## Week 1 - Sep 5
 ### Course intro / expectations
@@ -16,28 +16,28 @@ This course focuses on programming strategies and techniques behind procedural a
 * Overview / syllabus
 * Homework / final project
 
-### [Week 1 Notes](http://shiffman.net/teaching/a2z/week1/)
-* [Beyond Processing and into JavaScript and p5.js](http://shiffman.net/teaching/a2z/week1/#beyond)
-* [Installing Node](http://shiffman.net/teaching/a2z/week1/#node)
-* [JavaScript 101](http://shiffman.net/teaching/a2z/week1/#js101)
-* [Strings in JavaScript](http://shiffman.net/teaching/a2z/week1/#strings)
-* [File I/0 with Node](http://shiffman.net/teaching/a2z/week1/#file)
-* [Simple Text Analysis](http://shiffman.net/teaching/a2z/week1/#analysis)
-* [Back to p5.js, processing text from a user](http://shiffman.net/teaching/a2z/week1/#p5analysis)
+### [Week 1 Notes](http://mckinlay.net/teaching/a2z/week1/)
+* [Beyond Processing and into JavaScript and p5.js](http://mckinlay.net/teaching/a2z/week1/#beyond)
+* [Installing Node](http://mckinlay.net/teaching/a2z/week1/#node)
+* [JavaScript 101](http://mckinlay.net/teaching/a2z/week1/#js101)
+* [Strings in JavaScript](http://mckinlay.net/teaching/a2z/week1/#strings)
+* [File I/0 with Node](http://mckinlay.net/teaching/a2z/week1/#file)
+* [Simple Text Analysis](http://mckinlay.net/teaching/a2z/week1/#analysis)
+* [Back to p5.js, processing text from a user](http://mckinlay.net/teaching/a2z/week1/#p5analysis)
 
 ### Examples
-* [Processing to p5](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/00_Processing_to_p5.js)
-* [OOP in JS](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/01_objects_in_JS)
-* [DOM manipulation in p5](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/02_DOM_p5)
-* [Strings in JS](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/03_Strings)
-* [File I/O in Node](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/04_fileinput)
-* [Process user text in p5](https://github.com/shiffman/Programming-from-A-to-Z-F14/tree/master/week1/05_p5_text)
+* [Processing to p5](https://github.com/mckinlay/Programming-from-A-to-Z-F14/tree/master/week1/00_Processing_to_p5.js)
+* [OOP in JS](https://github.com/mckinlay/Programming-from-A-to-Z-F14/tree/master/week1/01_objects_in_JS)
+* [DOM manipulation in p5](https://github.com/mckinlay/Programming-from-A-to-Z-F14/tree/master/week1/02_DOM_p5)
+* [Strings in JS](https://github.com/mckinlay/Programming-from-A-to-Z-F14/tree/master/week1/03_Strings)
+* [File I/O in Node](https://github.com/mckinlay/Programming-from-A-to-Z-F14/tree/master/week1/04_fileinput)
+* [Process user text in p5](https://github.com/mckinlay/Programming-from-A-to-Z-F14/tree/master/week1/05_p5_text)
 
 ### Assignment
-* [Sign up for the class google group](https://groups.google.com/a/nyu.edu/forum/#!forum/a2z-group/)
+* [Sign up for the class google group](https://groups.google.com/a/csun.edu/forum/#!forum/a2z-group/)
 * [Watch](https://www.youtube.com/watch?v=PGsQwAu3PzU) or [read](http://secretlifeofpronouns.com/book.php) The Secret Life of Pronouns.
 * Develop a program that "writes" or "reads" (or both) text, i.e. generate your own text from a source text (or via some other generative method) or create your own method for analyzing the statistical properties (or, dare I say, meaning) of an input text.  You can use node to process a text file or you can get user input in a browser.  Feel free to play around with visual ideas for displaying text with p5.js.
-* [Wiki page for submitting homework](https://github.com/shiffman/Programming-from-A-to-Z-F14/wiki/Week-1-Homework)
+* [Wiki page for submitting homework](https://github.com/mckinlay/Programming-from-A-to-Z-F14/wiki/Week-1-Homework)
 
 
 ## Week 2 - Regular Expressions - Sep 12

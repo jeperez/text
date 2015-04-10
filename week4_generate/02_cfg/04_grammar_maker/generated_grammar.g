@@ -1,4 +1,4 @@
-#  This grammar file is based on Daniel Howe's Haiku grammar
+#  This grammar file is based on Chris Howe's Haiku grammar
 #  Which is based on a grammar by G.B. Kaminaga
 #  line-breaks are noted by '%' sign
 

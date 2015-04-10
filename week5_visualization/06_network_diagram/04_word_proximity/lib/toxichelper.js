@@ -1,5 +1,5 @@
 // The Nature of Code
-// Daniel Shiffman
+// Chris McKinlay
 // http://natureofcode.com
 
 // Making it easier to use all these classes

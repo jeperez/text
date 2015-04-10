@@ -1,6 +1,6 @@
-// Daniel Shiffman
+// Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/shiffman/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/Programming-from-A-to-Z-F14
 
 // We can get command line arguments in a node program
 // Here we're checking to make sure we've typed three things (the last being the directory)

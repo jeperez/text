@@ -1,5 +1,5 @@
 // The Nature of Code
-// Daniel Shiffman
+// Chris McKinlay
 // http://natureofcode.com
 
 // A fixed boundary class

@@ -1,5 +1,5 @@
 // Learning Processing
-// Daniel Shiffman
+// Chris McKinlay
 // http://www.learningprocessing.com
 
 // Example 9-11 ported to p5.js

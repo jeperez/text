@@ -1,6 +1,6 @@
-// Daniel Shiffman
+// Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/shiffman/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/Programming-from-A-to-Z-F14
      
 
 // Context Free Grammar
@@ -30,7 +30,7 @@ function analyze(err, data) {
   }
 
   var grammar = '';
-  grammar += "#  This grammar file is based on Daniel Howe's Haiku grammar\n";
+  grammar += "#  This grammar file is based on Chris Howe's Haiku grammar\n";
   grammar += "#  Which is based on a grammar by G.B. Kaminaga\n";
   grammar += "#  line-breaks are noted by '%' sign\n\n";
 

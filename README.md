@@ -30,7 +30,7 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Process user text in p5](https://github.com/mckinlay/text/tree/master/week1/06_p5_text)
 
 ### Assignment
-* [Sign up for the class google group](https://groups.google.com/a/nyu.edu/forum/#!forum/a2z-group/)
+* [Sign up for the class google group](https://groups.google.com/a/csun.edu/forum/#!forum/a2z-group/)
 * [Watch](https://www.youtube.com/watch?v=PGsQwAu3PzU) or [read](http://secretlifeofpronouns.com/book.php) The Secret Life of Pronouns.
 * Develop a program that "writes" or "reads" (or both) text, i.e. generate your own text from a source text (or via some other generative method) or create your own method for analyzing the statistical properties (or, dare I say, meaning) of an input text.  You can use node to process a text file or you can get user input in a browser.  Feel free to play around with visual ideas for displaying text with p5.js.
 * [Wiki page for submitting homework](https://github.com/mckinlay/text/wiki/Week-1-Homework)
@@ -211,7 +211,7 @@ This course focuses on programming strategies and techniques behind procedural a
     * [Server side programming with Servi](https://github.com/antiboredom/servi.js/wiki)
     * [Code examples](https://github.com/mckinlay/text/tree/master/week6_apis/05_servi_makeyourownAPI)
     * [Nodemon](https://github.com/remy/nodemon)
-    * Deploying your app: [notes from Shawn's Network Media using Digital Ocean](http://itp.nyu.edu/~sve204/commlabnetworkedmedia_fall2014/week1.html)
+    * Deploying your app: [notes from Shawn's Network Media using Digital Ocean](http://itp.csun.edu/~sve204/commlabnetworkedmedia_fall2014/week1.html)
 * Combining the two!
     * [OAuth](http://en.wikipedia.org/wiki/OAuth)
     * [Twitter API docs](https://dev.twitter.com/overview/documentation)

@@ -1,6 +1,6 @@
-// Daniel Shiffman
+// Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/shiffman/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/Programming-from-A-to-Z-F14
 
 // This is based on Allison Parrish's great RWET examples
 // https://github.com/aparrish/rwet-examples

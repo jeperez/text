@@ -1,6 +1,6 @@
-// Daniel Shiffman
+// Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/shiffman/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/Programming-from-A-to-Z-F14
 
 // A p5 sketch that searches twitter and tweets
 

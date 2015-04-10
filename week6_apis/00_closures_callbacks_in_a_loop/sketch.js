@@ -1,6 +1,6 @@
-// Daniel Shiffman
+// Chris McKinlay
 // Programming from A to Z, Fall 2014
-// https://github.com/shiffman/Programming-from-A-to-Z-F14
+// https://github.com/mckinlay/Programming-from-A-to-Z-F14
 
 // Show issues around a callback in a loop
 // This happens in a lot of the examples where
@@ -9,7 +9,7 @@
 // an array of DOM elements
 
 // Some more ways of doing this are here:
-// https://gist.github.com/shiffman/7b96d9951bb3865e7d38
+// https://gist.github.com/mckinlay/7b96d9951bb3865e7d38
 
 function setup() {
   for (var i = 0; i < 10; i++) {
