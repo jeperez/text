@@ -5,13 +5,20 @@ This course focuses on programming strategies and techniques behind procedural a
 - [Course Notes](http://mckinlay.la/teaching/a2z/)
 - All example code in this repo.
 
-## Week 1 - Sep 5
+## Requirements
+* You are required to attend all class meetings and submit all bi-weekly assignments and a final project.
+* Grading will be based the following factors:
+  * Attendance, participation in class discussion, and engagement in other students' projects (25%)
+  * Quality of weekly assignments (50%) 
+  * Final Project (25%)
+
+## Weeks 1-2 - Introduction
 ### Course intro / expectations
 * Where to find course materials
 * Overview / syllabus
 * Homework / final project
 
-### [Week 1 Notes](http://mckinlay.la/teaching/a2z/week1/)
+### [Weeks 1-2 Notes](http://mckinlay.la/teaching/a2z/week1/)
 * [Beyond Processing and into JavaScript and p5.js](http://mckinlay.la/teaching/a2z/week1.html#beyond)
 * [Installing Node](http://mckinlay.la/teaching/a2z/week1.html#node)
 * [JavaScript 101](http://mckinlay.la/teaching/a2z/week1.html#js101)
@@ -36,9 +43,9 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Wiki page for submitting homework](https://github.com/cem3394/text/wiki/Week-1-Homework)
 
 
-## Week 2 - Regular Expressions - Sep 12
+## Weeks 3-4 - Regular Expressions 
 
-### [Week 2 Notes](http://mckinlay.la/teaching/a2z/regex)
+### [Weeks 3-4 Notes](http://mckinlay.la/teaching/a2z/regex)
 * [Intro to Regular Expressions](http://mckinlay.la/teaching/a2z/regex.html#regex)
    * meta-characters
        * position
@@ -90,8 +97,8 @@ This course focuses on programming strategies and techniques behind procedural a
     * Create a regex that matches only code comments in code.
 * Don't forgot to document your work online, upload to dropbox, and post to the [homework wiki](https://github.com/cem3394/text/wiki/Week-2-Homework).
    
-## Week 3 - Text Analysis - Sep 19
-### [Week 3 Notes](http://mckinlay.la/teaching/a2z/analysis)
+## Weeks 5-6 - Text Analysis 
+### [Weeks 5-6  Notes](http://mckinlay.la/teaching/a2z/analysis)
 * [Associative Arrays in JavaScript?](http://mckinlay.la/teaching/a2z/analysis#dictionary)
 * [Text Concordance](http://mckinlay.la/teaching/a2z/analysis#concordance)
 * [Keyword finding: TF-IDF](http://mckinlay.la/teaching/a2z/analysis#tfidf)
@@ -124,10 +131,9 @@ This course focuses on programming strategies and techniques behind procedural a
   * In James W. Pennebaker's book [The Secret Life of Pronouns](http://secretlifeofpronouns.com/), Pennebaker describes his research into how the frequency of words that have little to no meaning on their own (I, you, they, a, an, the, etc.) are a window into the emotional state or personality of an author or speaker.  For example, heavy use of the pronoun “I” is an indicator of “depression, stress or insecurity”.  Create a page sketch that analyzes the use of pronouns.  For more, visit [analyzewords.com](http://www.analyzewords.com/">http://www.analyzewords.com).
   * Use the ideas to find similarities between people. For example, if you look at all the e-mails on the ITP student list, can you determine who is similar? Consider using properties in addition to word count, such as time of e-mails, length of e-mails, etc.
 
-## No class meeting Friday, Sept 26
 
-## Week 4 - Text Generation - Oct 3
-### [Week 4 Notes](http://mckinlay.la/teaching/a2z/generate)
+## Weeks 7-8  - Text Generation 
+### [Weeks 7-8 Notes](http://mckinlay.la/teaching/a2z/generate)
 * [N-Grams and Markov Chains](http://mckinlay.la/teaching/a2z/generate#ngrams)
 * [Grammars](http://mckinlay.la/teaching/a2z/generate#grammar)
 * Wordnik
@@ -161,8 +167,8 @@ This course focuses on programming strategies and techniques behind procedural a
     * Build a grammar that pulls its terminal words from [Wordnik](https://www.wordnik.com/).
     * Build a grammar based on a source text [as demonstrated here](https://github.com/cem3394/text/blob/master/week4_generate/02_cfg/04_grammar_maker/grammarmaker.js).  
 
-## Week 5 - Text Visualization - Oct 10
-### [Week 5 Notes](http://mckinlay.la/teaching/a2z/visualization)
+## Weeks 9-10 - Text Visualization 
+### [Weeks 9-10 Notes](http://mckinlay.la/teaching/a2z/visualization)
 * [Drawing Text with Canvas](http://mckinlay.la/teaching/a2z/visualization.html#canvas)
 * [Drawing Text with DOM Elements](http://mckinlay.la/teaching/a2z/visualization.html#dom)
 * [Classic Text Visualization Techniques](http://mckinlay.la/teaching/a2z/visualization.html#classic)
@@ -200,7 +206,7 @@ This course focuses on programming strategies and techniques behind procedural a
 ### Assignment
 * Create a final project proposal.  [Add a link to the wiki](https://github.com/cem3394/text/wiki/Final-Project-Proposal).  
 
-## Week 6 - APIs - Oct 17
+## Weeks 11-12  - APIs 
 * Pulling data from APIs
     * [Some notes from creativeJS](https://github.com/lmccart/itp-creative-js/wiki/Week-4)
     * API examples:
@@ -221,8 +227,7 @@ This course focuses on programming strategies and techniques behind procedural a
 ### Assignment
 * Prepare final project and documentation [as described here](https://github.com/cem3394/text/wiki/Final-Project).  Plan on 5 minutes (with 1-2 minutes of questions) for presenting.
 
-## Week 7 - Present Final Projects - Oct 30 -- 12:30 - 3:00 pm
-* ***NOTE THE NEW DATE FOR THIS FINAL CLASS Oct 30 -- 12:30 - 3:00 pm Room TBA***
+## Weeks 13-14 - Present Final Projects 
 
 ## Resources
 * [p5.js](http://p5js.org)
@@ -275,9 +280,4 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Rita](http://rednoise.org/rita/)
 * [Allison Parrish](http://www.decontextualize.com/)
 
-## Requirements
-* You are required to attend all class meetings and submit all weekly assignments and a final project.
-* Grading (pass/fail) will be based on a combination of factors:
-  * Attendance, participation in class discussion, and engagement in other students' projects (25%)
-  * Quality of weekly assignments (50%) 
-  * Final Project (25%)
+
