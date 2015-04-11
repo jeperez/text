@@ -12,13 +12,13 @@ This course focuses on programming strategies and techniques behind procedural a
 * Homework / final project
 
 ### [Week 1 Notes](http://mckinlay.la/teaching/a2z/week1/)
-* [Beyond Processing and into JavaScript and p5.js](http://mckinlay.la/teaching/a2z/week1/#beyond)
-* [Installing Node](http://mckinlay.la/teaching/a2z/week1/#node)
-* [JavaScript 101](http://mckinlay.la/teaching/a2z/week1/#js101)
-* [Strings in JavaScript](http://mckinlay.la/teaching/a2z/week1/#strings)
-* [File I/0 with Node](http://mckinlay.la/teaching/a2z/week1/#file)
-* [Simple Text Analysis](http://mckinlay.la/teaching/a2z/week1/#analysis)
-* [Back to p5.js, processing text from a user](http://mckinlay.la/teaching/a2z/week1/#p5analysis)
+* [Beyond Processing and into JavaScript and p5.js](http://mckinlay.la/teaching/a2z/week1.html#beyond)
+* [Installing Node](http://mckinlay.la/teaching/a2z/week1.html#node)
+* [JavaScript 101](http://mckinlay.la/teaching/a2z/week1.html#js101)
+* [Strings in JavaScript](http://mckinlay.la/teaching/a2z/week1.html#strings)
+* [File I/0 with Node](http://mckinlay.la/teaching/a2z/week1.html#file)
+* [Simple Text Analysis](http://mckinlay.la/teaching/a2z/week1.html#analysis)
+* [Back to p5.js, processing text from a user](http://mckinlay.la/teaching/a2z/week1.html#p5analysis)
 
 ### Examples
 * [Processing to p5](https://github.com/cem3394/text/tree/master/week1/00_Processing_to_p5.js)
@@ -30,7 +30,7 @@ This course focuses on programming strategies and techniques behind procedural a
 * [Process user text in p5](https://github.com/cem3394/text/tree/master/week1/06_p5_text)
 
 ### Assignment
-* [Sign up for the class google group](https://groups.google.com/a/csun.edu/forum/#!forum/a2z-group/)
+* [Sign up for the class google group](https://groups.google.com/a/csun.edu/forum.html#!forum/a2z-group/)
 * [Watch](https://www.youtube.com/watch?v=PGsQwAu3PzU) or [read](http://secretlifeofpronouns.com/book.php) The Secret Life of Pronouns.
 * Develop a program that "writes" or "reads" (or both) text, i.e. generate your own text from a source text (or via some other generative method) or create your own method for analyzing the statistical properties (or, dare I say, meaning) of an input text.  You can use node to process a text file or you can get user input in a browser.  Feel free to play around with visual ideas for displaying text with p5.js.
 * [Wiki page for submitting homework](https://github.com/cem3394/text/wiki/Week-1-Homework)
@@ -39,13 +39,13 @@ This course focuses on programming strategies and techniques behind procedural a
 ## Week 2 - Regular Expressions - Sep 12
 
 ### [Week 2 Notes](http://mckinlay.la/teaching/a2z/regex)
-* [Intro to Regular Expressions](http://mckinlay.la/teaching/a2z/regex/#regex)
+* [Intro to Regular Expressions](http://mckinlay.la/teaching/a2z/regex.html#regex)
    * meta-characters
        * position
        * single character
        * quantifiers
        * character classes
-* [Testing regex with egrep](http://mckinlay.la/teaching/a2z/regex/#egrep)
+* [Testing regex with egrep](http://mckinlay.la/teaching/a2z/regex.html#egrep)
 * [Regex in JavaScript](#jsregex)
 * [Splitting with Regex](#splitting)
 * [Search and Replace](#searchreplace)
@@ -163,9 +163,9 @@ This course focuses on programming strategies and techniques behind procedural a
 
 ## Week 5 - Text Visualization - Oct 10
 ### [Week 5 Notes](http://mckinlay.la/teaching/a2z/visualization)
-* [Drawing Text with Canvas](http://mckinlay.la/teaching/a2z/visualization/#canvas)
-* [Drawing Text with DOM Elements](http://mckinlay.la/teaching/a2z/visualization/#dom)
-* [Classic Text Visualization Techniques](http://mckinlay.la/teaching/a2z/visualization/#classic)
+* [Drawing Text with Canvas](http://mckinlay.la/teaching/a2z/visualization.html#canvas)
+* [Drawing Text with DOM Elements](http://mckinlay.la/teaching/a2z/visualization.html#dom)
+* [Classic Text Visualization Techniques](http://mckinlay.la/teaching/a2z/visualization.html#classic)
    * word clouds
    * treemaps
    * network diagrams
