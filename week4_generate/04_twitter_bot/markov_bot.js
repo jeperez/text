@@ -1,5 +1,5 @@
 // Chris McKinlay
-// Programming from A to Z, Fall 2014
+// Textual Computing, Fall 2014
 // https://github.com/cem3394/text
 
 // Thank you to: https://github.com/dariusk/metaphor-a-minute/blob/master/metaphor.js
@@ -87,7 +87,7 @@ setInterval(getTweets, 150000);
 setInterval(postTweet, 120000);
 
 // Chris McKinlay
-// Programming from A to Z, Fall 2014
+// Textual Computing, Fall 2014
 // https://github.com/cem3394/text
 
 // This is based on Allison Parrish's great RWET examples

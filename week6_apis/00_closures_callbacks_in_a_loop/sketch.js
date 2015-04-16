@@ -1,5 +1,5 @@
 // Chris McKinlay
-// Programming from A to Z, Fall 2014
+// Textual Computing, Fall 2014
 // https://github.com/cem3394/text
 
 // Show issues around a callback in a loop

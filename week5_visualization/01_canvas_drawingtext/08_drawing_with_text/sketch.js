@@ -1,5 +1,5 @@
 // Chris McKinlay
-// Programming from A to Z, Fall 2014
+// Textual Computing, Fall 2014
 // https://github.com/cem3394/text
 
 // Ported from Generative Gestaltung, ISBN: 978-3-87439-759-9
